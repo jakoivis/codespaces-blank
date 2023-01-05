@@ -1,4 +1,4 @@
-module github.com/jakoivis/utc-offset
+module github.com/jakoivis/utcoffset
 
 go 1.19
 
