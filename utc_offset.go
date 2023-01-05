@@ -1,4 +1,4 @@
-package tz
+package utcoffset
 
 import (
 	"fmt"
