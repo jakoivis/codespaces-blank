@@ -1,5 +1,8 @@
 # utcoffset
 
+Converts UTC offset formats ±[hh]:[mm], ±[hh][mm], ±[hh] e.g. +02:34, +0234, +02 to seconds. 
+Allows using case insensitive UTC prefix e.g. UTC+02:34, UTC+0234, UTC+02
+
 ## Example usage
 
 ```go
